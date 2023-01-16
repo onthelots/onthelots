@@ -55,11 +55,4 @@
  
   
 <a href="https://iosdevlime.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a><a href="https://onthelots.gmail.com" target="_blank"><img src="https://img.shields.io/badge/onthelots.gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-
-
-<br>
-<br>
- 
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onthelots&theme=dark&show_icons=true)](https://github.com/onthelots/github-readme-stats)
   </div>
