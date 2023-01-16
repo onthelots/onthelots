@@ -61,5 +61,5 @@
 <br>
  
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onthelots&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onthelots&theme=dark&show_icons=true)](https://github.com/onthelots/github-readme-stats)
   </div>
