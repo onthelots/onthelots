@@ -10,9 +10,6 @@
   <p><h5>
 
   I'm mobile app developer. Based on native iOS 📱
-
- 
-   In response to changes in the app market, learning ReactNative or Flutter in parallel. 👀 
   </h5></p>
   
 <br>
