@@ -3,8 +3,8 @@
    ## 📢 Introduce.
  
   <h5>
-  Hi! My name is Jae Hyuk Yim (Josh) 👋🏻
-  I'm mobile app developer. Based on native iOS 📱
+  <p> Hi! My name is Jae Hyuk Yim (Josh) 👋🏻 </p>
+  <p>I'm mobile app developer. Based on native iOS 📱</p>
   </h5>
   
   <br> 
