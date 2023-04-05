@@ -46,7 +46,7 @@
 <a href="https://iosdevlime.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/></a><a href="https://onthelots.gmail.com" target="_blank"><img src="https://img.shields.io/badge/onthelots.gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   
  <h5>Portfolio</h5>
- <a href="https://onthelots.notion.site/LIME-6bcdb6674b0f4f6baf37cc857edddc66" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+ <a href="[https://onthelots.notion.site/LIME-6bcdb6674b0f4f6baf37cc857edddc66](https://www.notion.so/onthelots/Josh-Resume-8665fa33ce6146dfa046de83423a0ce2?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 
   
   </div>
