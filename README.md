@@ -62,7 +62,8 @@
   
   <br>
   
-  ## 👨🏽‍💻 Education
+  ## Education.
+  
   #### 💡 멋쟁이 사자차럼(Likelion) 앱 스쿨 1기 (2022.09 – 2023.02)
   - Swift / SwiftUI / UIKit / Firebase등 iOS 개발 필수기술 습득
   - 애자일 개발방식, 스프린트 회고, HIG, 해커톤을 통한 단기간 개발역량 강화
@@ -75,13 +76,14 @@
   
   <br>
   
-  ## Work Experience
+  ## Work Experience.
   #### 🏢 지역활성화센터 (2018.01 – 2022.05)
 
   
   <br>
   
   ## Contact.
+  
   #### E-mail : jhyim1992@gmail.com 📨
   #### LinkedIn : https://www.linkedin.com/in/jhyim1992/ 👨‍💼
   #### Blog : https://iosdevlime.tistory.com 🌐
