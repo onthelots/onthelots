@@ -41,6 +41,7 @@
   
   #### 📘 MEMOrizing (2023.01 - 서비스 중)
   > AppStore(v1.02) : https://apps.apple.com/kr/app/memorizing/id1670026920
+  > Repository URL : https://github.com/onthelots/memorizing
   - 스스로 만들고, 학습하며 타인과 함께 공유하는 암기장 앱
   - 단순하고 지루한 학습, 암기방식에서 나아가 과학적인 암기로직을 바탕으로 효율적인 학습을 제공
   - Skills : Swift, SwiftUI, iOS SDK, Firebase, CoreData
@@ -48,6 +49,7 @@
   
   
   #### 🏷️ Tech!Ting (2022.12 – 2023.01)
+  > Repository URL : https://github.com/onthelots/Tech-Ting
   - 세미나 및 행사를 등록하고, 서비스를 관리하는 관리자 전용 앱
   - 관리방식의 효율성과 편의성을 제공, 행사 및 세미나 등록, 참석차 출결관리, 데이터 분석 서비스 제공
   - Skills : Swift, SwiftUI, iOS SDK, Firebase, Figma
@@ -55,6 +57,7 @@
   
   
   #### ⛹🏻 Moveo (2022.11 – 2023.12)
+  > Repository URL : https://github.com/onthelots/Moveo
   - 자기계발 활동을 타인과 함께 공유하는 동기부여 SNS 앱
   - 운동, 학습 등 다양한 분야에 대한 자기계발 경험을 공유하는 서비스 제공
   - Skills : Swift, SwiftUI, iOS SDK, Firebase, Figma
