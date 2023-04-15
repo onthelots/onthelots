@@ -41,6 +41,7 @@
   
   #### 📘 MEMOrizing (2023.01 - 서비스 중)
   > AppStore(v1.02) : https://apps.apple.com/kr/app/memorizing/id1670026920
+  
   > Repository URL : https://github.com/onthelots/memorizing
   - 스스로 만들고, 학습하며 타인과 함께 공유하는 암기장 앱
   - 단순하고 지루한 학습, 암기방식에서 나아가 과학적인 암기로직을 바탕으로 효율적인 학습을 제공
