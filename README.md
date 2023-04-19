@@ -1,6 +1,6 @@
 <div align="leading">
   
-  # JaeHyuk Yim(Josh) 🧑🏻
+  # JaeHyuk Yim(Josh)🧑🏻‍💻
  
   ## About Me.
   
