@@ -20,7 +20,6 @@
    #### Language & Tools
   
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ObjectiveC-7FADF2?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-2396F3?style=flat&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIKit&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS_SDK-2396F3?style=flat&logo=apple&logoColor=black"/>
