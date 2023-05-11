@@ -4,9 +4,14 @@
  
   ## About Me.
   
-  <p>Hello! I am a mobile app developer specializing in native iOS development. </p>
-  <p>My goal is to become a developer who can provide a great user experience through my work. 😊 </p>
+  **<p>🔍 새로운 분야에 대한 도전과 다각도의 지식을 탐구하는 일에 큰 즐거움을 느낍니다<p>**
   
+  - 사용자에게 좋은 이용 경험을 제공하는 개발자가 되고자, 블로그 운영을 통해 기술에 대해 끊임없이 기록하는 자세를 갖추고 있습니다. 
+  - 가치있는 코드 뿐만이 아닌, 사용자 경험에 대한 고민을 토대로 UX/UI 디자인을 함께 고려합니다.
+  
+  **<p>🗣️ 개발자로서의 역량 뿐 아닌, 체계적인 업무 설계와 무한한 책임감을 지닌 계획가로서의 역량을 갖추고 있습니다<p>**
+  - 도시 계획가로의 실무 경험을 바탕으로 애자일 기법에 대한 이해와 자기 주도적 업무 관리체계를 주도적으로 실천하고, 몰입합니다.
+  - 동료와의 소통을 가장 중요한 가치로 생각하며, 맡은 역할과 업무에 대한 투철한 책임감을 갖추고 있습니다.
   
   <br> 
   
