@@ -61,7 +61,7 @@
   - Architecture : MVVM
   
   
-  #### ⛹🏻 Moveo (2022.11 – 2023.12)
+  #### ⛹🏻 Moveo (2022.11 – 2022.12)
   > Repository URL : https://github.com/onthelots/Moveo
   - 자기계발 활동을 타인과 함께 공유하는 동기부여 SNS 앱
   - 운동, 학습 등 다양한 분야에 대한 자기계발 경험을 공유하는 서비스 제공
