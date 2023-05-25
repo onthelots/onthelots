@@ -33,9 +33,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=flat&logo=Microsoft Office&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white"/>
   
   <br> 
   <br> 
