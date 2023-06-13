@@ -84,6 +84,5 @@
   ## Contact.
   
   #### E-mail : jhyim1992@gmail.com 📨
-  #### LinkedIn : https://www.linkedin.com/in/jhyim1992/ 👨‍💼
   #### Blog : https://iosdevlime.tistory.com 🌐
   #### Portfolio : https://bit.ly/JaeHyukYim 💎
