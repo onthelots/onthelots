@@ -5,7 +5,7 @@
   **<p>`🔍 사용자 친화적 애플리케이션 개발을 목표로 끊임 없이 기록하고, 고민하고, 발전해 나가는 주니어 개발자 입니다.`<p>**
   
   - 사용자에게 **좋은 이용경험**을 제공하는 개발자가 되고자, CS를 비롯한 다각도의 iOS 개발 기술에 대한 [블로깅](https://iosdevlime.tistory.com/)을 꾸준하게 이어가고 있습니다.
-  - Adobe Illustrator, Figma 등 디자인 도구에 대한 이해와 적극적인 [활용자세](https://www.figma.com/file/k6wCwMC0vHHJdXNnW8E4l2/%F0%9F%94%B4-Design-Task---Jae-Hyuk-Yim?type=design&node-id=0%3A1&t=Tg8aBg5I3zeI4Spx-1)를 통해 UX/UI 디자인을 함께 고려합니다.
+  - Adobe Illustrator, Figma 등 디자인 도구에 대한 이해와 적극적인 활용 자세를 통해 [UX/UI 디자인](https://www.figma.com/file/k6wCwMC0vHHJdXNnW8E4l2/%F0%9F%94%B4-Design-Task---Jae-Hyuk-Yim?type=design&node-id=0%3A1&t=Tg8aBg5I3zeI4Spx-1)을 함께 고려합니다.
   
   **<p>`🗣️ 개발자로서의 역량 뿐 아닌, 체계적인 업무 설계와 무한한 책임감을 지닌 계획가로서의 역량을 갖추고 있습니다.`<p>**
   - 지난 4년간의 도시 계획가로의 실무 경험을 바탕으로 애자일 기법에 대한 중요성과 [자기 주도적 업무체계](https://www.notion.so/onthelots/aa0af84dbcd249eb835e731c1ffca7ea?pvs=4)를 실천하고, 몰입합니다.
