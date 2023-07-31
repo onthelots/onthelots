@@ -32,21 +32,17 @@
 
   📘 `MEMOrizing (2023.01 - 서비스 중)`
   > 스스로 만들고, 학습하며 타인과 함께 공유하는 암기장 앱 ([AppStore(v1.02)](https://apps.apple.com/kr/app/memorizing/id1670026920) | [README](https://github.com/onthelots/memorizing))
-  - 단순하고 지루한 학습, 암기방식에서 나아가 과학적인 암기로직을 바탕으로 효율적인 학습을 제공
-  - Keyword : SwiftUI, Firebase, CoreData, Async-Await
+  - Keyword : SwiftUI, Firebase, CoreData, 비동기(Async-Await)
   - Architecture : MVVM
 
  🎧 `Spotify_Custom (2023.06 - 2023.07)`
   > Spotify Web API를 활용한 나만의 음악 재생 앱 ([README](https://github.com/onthelots/Spotify_App))
-  - 세계 최대 음원 스트리밍 서비스인 Spotify를 커스텀 UI 디자인으로 구현
-  - Keyword : UIKit, OAuth2.0, RESTFul API, Code-base (AutoLayout)
+  - Keyword : UIKit, OAuth2.0, RESTFul API, AutoLayout(Code-base), 비동기(GCD)
   - Architecture : MVC(&MVP)
   
   
   🏷️ `Tech!Ting (2022.12 – 2023.01)`
   > 세미나 및 행사를 등록하고, 서비스를 관리하는 관리자 전용 앱 ([README](https://github.com/onthelots/Tech-Ting))
-  - 세미나 및 행사를 등록하고, 서비스를 관리하는 관리자 전용 앱
-  - 관리방식의 효율성과 편의성을 제공, 행사 및 세미나 등록, 참석차 출결관리, 데이터 분석 서비스 제공
   - Keyword : iPad Device, SwiftUI, Firebase,
   - Architecture : MVVM
   
