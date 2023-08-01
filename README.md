@@ -31,7 +31,7 @@
   ## Project.
 
   📘 `MEMOrizing (2023.01 - 서비스 중)`
-  > 스스로 만들고, 학습하며 타인과 함께 공유하는 암기장 앱 ([AppStore(v1.02)](https://apps.apple.com/kr/app/memorizing/id1670026920) | [README](https://github.com/onthelots/memorizing))
+  > 스스로 만들고, 학습하며 타인과 함께 공유하는 암기장 앱 ([AppStore(v1.02)](https://apps.apple.com/kr/app/memorizing/id1670026920) | [README](https://github.com/onthelots/memorizing)) | [Homepage](https://memorizing.notion.site/7186dcfc77794dd593dc292be31df131)
   - Keyword : SwiftUI, Firebase, CoreData, 비동기(Async-Await)
   - Architecture : MVVM
 
