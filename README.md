@@ -30,23 +30,25 @@
   
   ## Project.
 
+  📰 `Dangle (2023.08 - 프로젝트 진행 중)`
+  > 사용자의 위치를 기반으로 다양한 소식을 제공하는 하이퍼 로컬 뉴스 플랫폼 ([README](https://github.com/onthelots/dangle))
+  - Keyword : UIKit, Combine, RESTFul API(URLSession),AutoLayout(Code-base)
+  - Architecture : Clean Architecture, MVVM(+Coordinator)
+
+  <br>
+
+  💿 `Spotify_Custom (2023.06 - 2023.07)`
+  > Spotify Web API를 활용한 나만의 음악 재생 앱 ([README](https://github.com/onthelots/Spotify_App))
+  - Keyword : UIKit, OAuth2.0, RESTFul API(URLSession), AutoLayout(Code-base), GCD
+  - Architecture : MVC(+MVP)
+
+  <br>
+
   📘 `MEMOrizing (2023.01 - 서비스 중)`
   > 스스로 만들고, 학습하며 타인과 함께 공유하는 암기장 앱 ([AppStore(v1.02)](https://apps.apple.com/kr/app/memorizing/id1670026920) | [README](https://github.com/onthelots/memorizing) | [Homepage](https://memorizing.notion.site/7186dcfc77794dd593dc292be31df131))
-  - Keyword : SwiftUI, Firebase, CoreData, 비동기(Async-Await)
+  - Keyword : SwiftUI, Firebase, CoreData, Async-Await
   - Architecture : MVVM
 
- 🎧 `Spotify_Custom (2023.06 - 2023.07)`
-  > Spotify Web API를 활용한 나만의 음악 재생 앱 ([README](https://github.com/onthelots/Spotify_App))
-  - Keyword : UIKit, OAuth2.0, RESTFul API, AutoLayout(Code-base), 비동기(GCD)
-  - Architecture : MVC(&MVP)
-  
-  
-  🏷️ `Tech!Ting (2022.12 – 2023.01)`
-  > 세미나 및 행사를 등록하고, 서비스를 관리하는 관리자 전용 앱 ([README](https://github.com/onthelots/Tech-Ting))
-  - Keyword : iPad Device, SwiftUI, Firebase,
-  - Architecture : MVVM
-  
-  
   <br>
   
   ## Education.
