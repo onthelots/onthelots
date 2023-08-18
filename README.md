@@ -50,6 +50,13 @@
   - Architecture : MVVM
 
   <br>
+
+  🏷️ `Tech-Ting (2022.11 - 2022.12)`
+  > 스스로 만들고, 학습하며 타인과 함께 공유하는 암기장 앱 ([README](https://github.com/onthelots/Tech-Ting))
+  - Keyword : SwiftUI, iPad, Firebase, 2-Track App(admin, Customer)
+  - Architecture : MVVM
+
+  <br>
   
   ## Education.
   
