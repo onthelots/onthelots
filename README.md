@@ -33,7 +33,7 @@
   🍨 `Scoop (2023.08 - 2023.09)`
   > 사용자의 위치를 기반으로 다양한 소식을 제공하는 하이퍼 로컬 뉴스 플랫폼 ([README](https://github.com/onthelots/Scoop))
   - Keyword : UIKit, Combine, RESTFul API(URLSession),AutoLayout(Code-base)
-  - Architecture : Clean Architecture, MVVM(+Coordinator)
+  - Architecture : Clean Architecture, MVVM
 
   <br>
 
