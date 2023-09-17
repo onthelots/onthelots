@@ -15,7 +15,6 @@
   
    ## Skills&Language.
   
-  
   `Platform`
 
   - <img src="https://img.shields.io/badge/iOS-5A29E4?style=flat&logo=iOS&logoColor=white"/>  
@@ -32,9 +31,11 @@
 
   🍨 `Scoop (2023.08 - 2023.09)`
   > 사용자의 위치를 기반으로 다양한 소식을 제공하는 하이퍼 로컬 뉴스 플랫폼 ([README](https://github.com/onthelots/Scoop) | [Homepage](https://www.notion.so/onthelots/32eb5fa184c14426a4f32b654f76ec0e?v=96817719164f49e398abae2bc4c8565c&pvs=4))
-  - Keyword : UIKit, Combine, RESTFul API(URLSession), AutoLayout(Code-base)
-  - Architecture : Clean Architecture, MVVM
-
+ - Keyword : UIKit, Combine, RESTFul API(URLSession), AutoLayout(Code-base)
+ - Architecture : Clean Architecture, MVVM
+    
+    <img src="https://github.com/onthelots/onthelots/assets/107039500/87b01eb5-c060-4f52-89c6-79aab1d9ba3f.png" width="800" height="300"/>
+  
   <br>
 
   💿 `Spotify_Custom (2023.06 - 2023.07)`
@@ -42,12 +43,17 @@
   - Keyword : UIKit, OAuth2.0, RESTFul API(URLSession), AutoLayout(Code-base), GCD
   - Architecture : MVC(+MVP)
 
+    <img src="https://github.com/onthelots/onthelots/assets/107039500/71c6e7f3-8fdc-4214-88cf-2f8d15134b57.png" width="800" height="350"/>
+
   <br>
 
   📘 `MEMOrizing (2023.01 - 서비스 중)`
   > 스스로 만들고, 학습하며 타인과 함께 공유하는 암기장 앱 ([AppStore(v1.02)](https://apps.apple.com/kr/app/memorizing/id1670026920) | [README](https://github.com/onthelots/memorizing) | [Homepage](https://memorizing.notion.site/7186dcfc77794dd593dc292be31df131))
   - Keyword : SwiftUI, Firebase, CoreData, Async-Await
   - Architecture : MVVM
+
+    <img src="https://github.com/onthelots/onthelots/assets/107039500/a2686a19-c86f-4a89-b3fb-83390c5cebb6.png" width="800" height="230"/>
+  
 
   <br>
   
@@ -63,7 +69,7 @@
   
   `🏫 단국대학교 도시계획 부동산학과 (2011.03 - 2018.02)`
   
-  <br>
+<br>
   
   ## Work Experience.
   `🏢 지역활성화센터 (2018.01 – 2022.05)`
