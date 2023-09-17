@@ -33,9 +33,9 @@
   > 사용자의 위치를 기반으로 다양한 소식을 제공하는 하이퍼 로컬 뉴스 플랫폼 ([README](https://github.com/onthelots/Scoop) | [Homepage](https://www.notion.so/onthelots/32eb5fa184c14426a4f32b654f76ec0e?v=96817719164f49e398abae2bc4c8565c&pvs=4))
  - Keyword : UIKit, Combine, RESTFul API(URLSession), AutoLayout(Code-base)
  - Architecture : Clean Architecture, MVVM
-    
-    <img src="https://github.com/onthelots/onthelots/assets/107039500/87b01eb5-c060-4f52-89c6-79aab1d9ba3f.png" width="800" height="300"/>
-  
+
+ ![scoop_ss](https://github.com/onthelots/onthelots/assets/107039500/1d9e5f8f-f8c3-43c1-bd0f-11a4ffe1d1f6)
+
   <br>
 
   💿 `Spotify_Custom (2023.06 - 2023.07)`
@@ -43,7 +43,7 @@
   - Keyword : UIKit, OAuth2.0, RESTFul API(URLSession), AutoLayout(Code-base), GCD
   - Architecture : MVC(+MVP)
 
-    <img src="https://github.com/onthelots/onthelots/assets/107039500/71c6e7f3-8fdc-4214-88cf-2f8d15134b57.png" width="800" height="350"/>
+![Group 2](https://github.com/onthelots/onthelots/assets/107039500/34271b5e-1094-4e91-95a1-ca668d2a97b2)
 
   <br>
 
@@ -52,8 +52,8 @@
   - Keyword : SwiftUI, Firebase, CoreData, Async-Await
   - Architecture : MVVM
 
-    <img src="https://github.com/onthelots/onthelots/assets/107039500/a2686a19-c86f-4a89-b3fb-83390c5cebb6.png" width="800" height="230"/>
-  
+![Group 49 1](https://github.com/onthelots/onthelots/assets/107039500/29c7a934-beff-402f-866c-77324b872ff6)
+
 
   <br>
   
