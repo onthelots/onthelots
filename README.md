@@ -34,7 +34,7 @@
  - Keyword : UIKit, Combine, RESTFul API(URLSession), AutoLayout(Code-base)
  - Architecture : Clean Architecture, MVVM
 
- ![scoop_ss](https://github.com/onthelots/onthelots/assets/107039500/1d9e5f8f-f8c3-43c1-bd0f-11a4ffe1d1f6)
+ ![scoop_ss](https://github.com/onthelots/onthelots/assets/107039500/0a16d145-2a0b-4ab4-9766-04aebeb129a3)
 
   <br>
 
