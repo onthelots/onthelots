@@ -79,9 +79,9 @@
   
   ## Contact.
   
-  #### E-mail : jhyim1992@gmail.com 📨
-  #### Blog : https://iosdevlime.tistory.com 🌐
-  #### Portfolio : https://bit.ly/JaeHyukYim 💎
+  - E-mail : jhyim1992@gmail.com 📨
+  - Blog : https://iosdevlime.tistory.com 🌐
+  - Portfolio : https://bit.ly/JaeHyukYim 💎
 
   <br>
 
