@@ -1,4 +1,4 @@
- # JaeHyuk Yim(Josh)🧑🏻‍💻
+ # JaeHyuk Yim🧑🏻‍💻
  
   ## About Me.
   
