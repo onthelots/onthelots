@@ -34,8 +34,6 @@
  - Keyword : UIKit, Combine, RESTFul API(URLSession), AutoLayout(Code-base)
  - Architecture : Clean Architecture, MVVM
 
- ![scoop_ss](https://github.com/onthelots/onthelots/assets/107039500/0a16d145-2a0b-4ab4-9766-04aebeb129a3)
-
   <br>
 
   💿 `Spotify_Custom (2023.06 - 2023.07)`
@@ -43,16 +41,12 @@
   - Keyword : UIKit, OAuth2.0, RESTFul API(URLSession), AutoLayout(Code-base), GCD
   - Architecture : MVC(+MVP)
 
-![Group 2](https://github.com/onthelots/onthelots/assets/107039500/34271b5e-1094-4e91-95a1-ca668d2a97b2)
-
   <br>
 
   📘 `MEMOrizing (2023.01 - 서비스 중)`
   > 스스로 만들고, 학습하며 타인과 함께 공유하는 암기장 앱 ([README](https://github.com/onthelots/memorizing) | [AppStore(v1.02)](https://apps.apple.com/kr/app/memorizing/id1670026920) | [Homepage](https://memorizing.notion.site/7186dcfc77794dd593dc292be31df131))
   - Keyword : SwiftUI, Firebase, CoreData, Async-Await
   - Architecture : MVVM
-
-![Group 49 1](https://github.com/onthelots/onthelots/assets/107039500/29c7a934-beff-402f-866c-77324b872ff6)
 
 
   <br>
@@ -72,6 +66,9 @@
 <br>
   
   ## Work Experience.
+  `📞 Omni Story (2023.10 - )`
+  - WebRTC 기술을 접목한 실시간 통신 플랫폼
+  
   `🏢 지역활성화센터 (2018.01 – 2022.05)`
   - 도시재생 및 중장기 지역계획 수립, 주민 컨설팅
   
