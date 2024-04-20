@@ -1,19 +1,15 @@
- # JaeHyuk Yim🧑🏻‍💻
- 
-  ## About Me.
-  
-  **<p>`🔍 사용자 친화적 애플리케이션 개발을 목표로 끊임 없이 기록하고, 고민하고, 발전하는 주니어 개발자 입니다.`<p>**
-  
-  - 사용자에게 **좋은 이용경험**을 제공하는 개발자가 되고자, [CS](https://iosdevlime.tistory.com/category/CS/Computer%20Basic)를 비롯한 다각도의 iOS 개발 기술에 대한 [블로깅](https://iosdevlime.tistory.com/)을 꾸준하게 이어가고 있습니다.
-  - Adobe Illustrator, Figma 등 디자인 도구에 대한 이해와 적극적인 활용 자세를 통해 UX/UI 디자인을 함께 고려합니다.
-  
-  **<p>`🗣️ 개발자로서의 역량 뿐 아닌, 체계적인 업무 설계와 무한한 책임감을 지닌 계획가로서의 역량을 갖추고 있습니다.`<p>**
-  - 지난 4년간의 도시 계획가로의 실무 경험을 바탕으로 애자일 기법에 대한 중요성과 [자기 주도적 업무체계](https://www.notion.so/onthelots/aa0af84dbcd249eb835e731c1ffca7ea?pvs=4)를 실천하고, 몰입합니다.
-  - 동료와의 소통을 가장 중요한 가치로 생각하며, 맡은 역할과 업무에 대한 투철한 책임감을 갖추고 있습니다.
+  ## About Me
+  #### 🎨 서비스를 이용하는 사용자의 입장에서 고민하고, 설계하고, 디자인하는 iOS 앱 개발자입니다.  
+  - 이해하고 사용하기 쉬운, 접근성이 용이한 앱을 만드는 것을 최 우선 목표로 삼고 있습니다.
+  - Adobe Illustrator, Figma 등 디자인 툴을 적극 활용하며, 사용자에게 탁월한 경험을 선사하고자 합니다.
+
+  #### 🏃🏼‍♂ 개발자 이외, 4년 간의 도시계획가로서의 근무 경험을 기반으로 자기 주도적 업무를 이해하고 실천합니다.
+  - 다년간의 실무 경험을 기반으로 보다 효율적이고 실천 가능한 업무 체계를 고민하고 실행합니다.
+  - 클라이언트, 동료와의 소통을 가장 중요한 가치로 생각하며, 수행해야 하는 역할과 업무에 대한 투철한 책임감을 갖추고 있습니다.
   
   <br> 
   
-   ## Skills&Language.
+  ## Skills&Language.
   
   `Platform`
 
@@ -21,33 +17,35 @@
     
   `Language & Tools`
   
-  - <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-2396F3?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIKit&logoColor=white"/> <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=CocoaPods&logoColor=white"/> <img src="https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=Swift&logoColor=white"/> 
-   
- - <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white">
+  - <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-2396F3?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIKit&logoColor=white"/> <img src="https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
   
   <br> 
   
-  ## Project.
+  ## Work experience
+  `📞 Omni Story (2023.10 - present)`
+  - WebRTC 기술을 접목한 [딥테크 CPaaS 서비스](https://omnitalk.io/)
+  - 이메일 주소 기반의 [웹/앱 전화서비스 플랫폼](https://www.xphone.com/) 서비스 제공 <a href="https://apps.apple.com/kr/app/xphone-just-email-to-call/id6477368155"><img src="https://img.shields.io/badge/AppStore-000000?style=flat&logo=AppStore&logoColor=white"/></a>
+ 
+  <br>
+  
+  `🏢 지역활성화센터 (2018.01 – 2022.05)`
+  - 도시재생 및 중장기 지역계획 수립, 주민 컨설팅
 
-  🍨 `Scoop (2023.08 - 서비스 중)`
+  <br>
+
+  ## Side Project
+
+  🍨 `Scoop`
   > 사용자의 위치를 기반으로 다양한 소식을 제공하는 하이퍼 로컬 뉴스 플랫폼 ([README](https://github.com/onthelots/Scoop) | [AppStore(v1.0.4)](https://apps.apple.com/kr/app/scoop/id6466811453) | [Homepage](https://www.notion.so/onthelots/32eb5fa184c14426a4f32b654f76ec0e?v=96817719164f49e398abae2bc4c8565c&pvs=4))
  - Keyword : UIKit, Combine, RESTFul API(URLSession), AutoLayout(Code-base)
  - Architecture : Clean Architecture, MVVM
 
   <br>
 
-  💿 `Spotify_Custom (2023.06 - 2023.07)`
+  💿 `Spotify_Custom`
   > Spotify Web API를 활용한 나만의 음악 재생 앱 ([README](https://github.com/onthelots/Spotify_App))
   - Keyword : UIKit, OAuth2.0, RESTFul API(URLSession), AutoLayout(Code-base), GCD
   - Architecture : MVC(+MVP)
-
-  <br>
-
-  📘 `MEMOrizing (2023.01 - 서비스 중)`
-  > 스스로 만들고, 학습하며 타인과 함께 공유하는 암기장 앱 ([README](https://github.com/onthelots/memorizing) | [AppStore(v1.02)](https://apps.apple.com/kr/app/memorizing/id1670026920) | [Homepage](https://memorizing.notion.site/7186dcfc77794dd593dc292be31df131))
-  - Keyword : SwiftUI, Firebase, CoreData, Async-Await
-  - Architecture : MVVM
-
 
   <br>
   
@@ -55,22 +53,8 @@
   
   `💡 멋쟁이 사자차럼(Likelion) 앱 스쿨 1기 (2022.09 – 2023.02)`
   - Swift / SwiftUI / UIKit / Firebase 등 [iOS 개발 필수기술](https://github.com/onthelots/iOS-Learning/tree/main/SwiftUI-Tutorial) 습득
-  - 애자일 개발방식, 스프린트 회고, HIG 외
-  
-  `📱 FastCampus iOS 앱 개발 바이블 (2022.07 – 2022.09)`
-  - UIKit 프레임워크 기반 [20여개 프로젝트](https://github.com/onthelots/iOS-Learning/tree/main/UIKit-Tutorial) 경험
-  - AutoLayout, Combine, RESTFul API, MVVM, CI/CD, TDD
   
   `🏫 단국대학교 도시계획 부동산학과 (2011.03 - 2018.02)`
-  
-<br>
-  
-  ## Work Experience.
-  `📞 Omni Story (2023.10 - )`
-  - WebRTC 기술을 접목한 실시간 통신 플랫폼
-  
-  `🏢 지역활성화센터 (2018.01 – 2022.05)`
-  - 도시재생 및 중장기 지역계획 수립, 주민 컨설팅
   
   <br>
   
