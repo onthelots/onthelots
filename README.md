@@ -22,7 +22,7 @@
   <br> 
   
   ## Work experience
-  `📞 Omni Story (2023.10 - present)`
+  `📞 Omni Story (2023.10 - 2024.09)`
   - WebRTC 기술을 접목한 [딥테크 CPaaS 서비스](https://omnitalk.io/)
   - 이메일 주소 기반의 [웹/앱 전화서비스 플랫폼](https://www.xphone.com/) 서비스 제공 <a href="https://apps.apple.com/kr/app/xphone-just-email-to-call/id6477368155"><img src="https://img.shields.io/badge/AppStore-000000?style=flat&logo=AppStore&logoColor=white"/></a>
  
