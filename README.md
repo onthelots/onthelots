@@ -63,10 +63,6 @@
   - E-mail : jhyim1992@gmail.com 📨
   - Blog : https://iosdevlime.tistory.com 🌐
   - Portfolio : https://bit.ly/JaeHyukYim 💎
-
-  <br>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onthelots&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   <br>
 
