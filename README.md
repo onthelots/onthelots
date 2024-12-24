@@ -37,17 +37,24 @@
 
   ## Side Project
 
+  🍨 `강동청년톡톡`
+  > 사용자의 위치를 기반으로 다양한 소식을 제공하는 하이퍼 로컬 뉴스 플랫폼 ([README](https://github.com/onthelots/Scoop](https://github.com/onthelots/gd_youth_talk)) | 출시 예정(12월 중))
+ - Platform : Flutter (iOS, Android, Web)
+ - Keyword : Bloc, Clean Architecture, Web Hosting
+   
+  <br>
+  
   🍨 `Scoop`
   > 사용자의 위치를 기반으로 다양한 소식을 제공하는 하이퍼 로컬 뉴스 플랫폼 ([README](https://github.com/onthelots/Scoop) | [AppStore(v1.0.4)](https://apps.apple.com/kr/app/scoop/id6466811453) | [Homepage](https://www.notion.so/onthelots/32eb5fa184c14426a4f32b654f76ec0e?v=96817719164f49e398abae2bc4c8565c&pvs=4))
- - Keyword : UIKit, Combine, RESTFul API(URLSession), AutoLayout(Code-base)
- - Architecture : Clean Architecture, MVVM
+ - Platform : iOS 
+ - Keyword : Combine, Clean Architecture, MVVM
 
   <br>
 
   💿 `Spotify_Custom`
   > Spotify Web API를 활용한 나만의 음악 재생 앱 ([README](https://github.com/onthelots/Spotify_App))
-  - Keyword : UIKit, OAuth2.0, RESTFul API(URLSession), AutoLayout(Code-base), GCD
-  - Architecture : MVC(+MVP)
+  - Platform : iOS 
+  - Keyword : MVC(+MVP), OAuth2.0
 
   <br>
   
