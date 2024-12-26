@@ -38,7 +38,7 @@
   ## Side Project
 
   🔖 `강동청년톡톡`
-  > 사용자의 위치를 기반으로 다양한 소식을 제공하는 하이퍼 로컬 뉴스 플랫폼 ([README](https://github.com/onthelots/gd_youth_talk) | 출시 예정(12월 중))
+  > 청년을 대상으로 한 정책 및 참여 프로그램 전달 플랫폼 ([README](https://github.com/onthelots/gd_youth_talk) | 출시 예정(12월 중))
  - Platform : Flutter (iOS, Android, Web)
  - Keyword : Bloc, Clean Architecture, Web Hosting
    
