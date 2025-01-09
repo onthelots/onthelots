@@ -3,8 +3,8 @@
   - 이해하고 사용하기 쉬운, 접근성이 용이한 앱을 만드는 것을 최 우선 목표로 삼고 있습니다.
   - Adobe Illustrator, Figma 등 디자인 툴을 적극 활용하며, 사용자에게 탁월한 경험을 선사하고자 합니다.
 
-  #### 🏃 개발자 이외, 4년 간의 도시계획가로서의 근무 경험을 토대로 자기 주도적 업무를 이해하고 실천합니다.
-  - 개발 뿐만이 아닌, 마케팅, 프로젝트 설계, 퍼실리테이션 등 다양한 실무 경험과 역량을 갖추고 있습니다.
+  #### 🏃 개발자 이외, 도시 계획가로서의 근무 경험을 토대로 자기 주도적 업무를 이해하고 실천합니다.
+  - 개발 뿐만이 아닌, 프로젝트 기획 및 설계, 디자인, 퍼실리테이션 등 다양한 실무 경험과 역량을 갖추고 있습니다.
   - 함께하는 동료와의 소통과 협업을 최 우선으로 생각합니다.
   
   <br> 
@@ -38,9 +38,9 @@
   ## Side Project
 
   🔖 `강동청년톡톡`
-  > 청년 대상 주요정책 및 참여 프로그램 전달 플랫폼 ([README](https://github.com/onthelots/gd_youth_talk) | [AppStore(v1.0.0)](https://apps.apple.com/kr/app/%EA%B0%95%EB%8F%99%EC%B2%AD%EB%85%84%ED%86%A1%ED%86%A1/id6739631810) | [Homepage](https://momentous-wallet-0f7.notion.site/1681c3f0e003806c9b50dde42728413a))
+  > 청년 대상 주요정책 및 참여 프로그램 전달 플랫폼 ([README](https://github.com/onthelots/gd_youth_talk) | [AppStore(v1.0.1)](https://apps.apple.com/kr/app/%EA%B0%95%EB%8F%99%EC%B2%AD%EB%85%84%ED%86%A1%ED%86%A1/id6739631810) | [Homepage](https://momentous-wallet-0f7.notion.site/1681c3f0e003806c9b50dde42728413a))
  - Platform : Flutter (iOS, Android, Web)
- - Keyword : Bloc, Clean Architecture, Web Hosting
+ - Keyword : Bloc, Clean Architecture, Hosting
    
   <br>
   
