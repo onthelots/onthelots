@@ -37,7 +37,7 @@
 
   ## Side Project
 
-  🔖 `강동청년톡톡`
+  🔖 `강동청년톡톡 & 관리자용`
   > 청년 대상 주요정책 및 참여 프로그램 전달 플랫폼 ([README](https://github.com/onthelots/gd_youth_talk) | [AppStore(v1.0.1)](https://apps.apple.com/kr/app/%EA%B0%95%EB%8F%99%EC%B2%AD%EB%85%84%ED%86%A1%ED%86%A1/id6739631810) | [Homepage](https://momentous-wallet-0f7.notion.site/1681c3f0e003806c9b50dde42728413a))
  - Platform : Flutter (iOS, Android, Web)
  - Keyword : Bloc, Clean Architecture, Hosting
