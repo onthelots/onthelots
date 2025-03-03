@@ -1,7 +1,7 @@
   ## About Me
   #### 🎨 서비스를 이용하는 사용자의 입장에서 고민하고, 설계하고, 디자인하는 애플리케이션 개발자입니다.  
+  - 크로스플랫폼 Flutter와 iOS 네이티브 전문성을 바탕으로 애플리케이션을 설계하고 개발합니다.
   - 이해하고 사용하기 쉬운, 접근성이 용이한 앱을 만드는 것을 최 우선 목표로 삼고 있습니다.
-  - Adobe Illustrator, Figma 등 디자인 툴을 적극 활용하며, 사용자에게 탁월한 경험을 선사하고자 합니다.
 
   #### 🏃 개발자 이외, 도시 계획가로서의 근무 경험을 토대로 자기 주도적 업무를 이해하고 실천합니다.
   - 개발 뿐만이 아닌, 프로젝트 기획 및 설계, 디자인, 퍼실리테이션 등 다양한 실무 경험과 역량을 갖추고 있습니다.
@@ -36,6 +36,13 @@
   <br>
 
   ## Side Project
+
+  🎈 `데일리 로또`
+  > 사용자 데이터 & AI를 활용한 맞춤형 로또 추천 서비스 ([README](https://github.com/onthelots/dailylotto) | [AppStore(v1.0.0)](예정) | [Homepage](https://momentous-wallet-0f7.notion.site/1ab1c3f0e0038032a81ec06504765a09?pvs=4) )
+ - Platform : Flutter (iOS, Android)
+ - Keyword : Bloc, Clean Architecture, HIVE, LLM(ChatGPT), FCM(+Topic), Functions(+Scheduler)
+
+ <br>
 
   🔖 `강동청년톡톡 & 관리자용`
   > 청년 대상 주요정책 및 참여 프로그램 전달 플랫폼 ([README](https://github.com/onthelots/gd_youth_talk) | [AppStore(v1.0.2)](https://apps.apple.com/kr/app/%EA%B0%95%EB%8F%99%EC%B2%AD%EB%85%84%ED%86%A1%ED%86%A1/id6739631810) | [Homepage](https://momentous-wallet-0f7.notion.site/1681c3f0e003806c9b50dde42728413a))
