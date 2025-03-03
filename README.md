@@ -38,7 +38,7 @@
   ## Side Project
 
   🎈 `데일리 로또`
-  > 사용자 데이터 & AI를 활용한 맞춤형 로또 추천 서비스 ([README](https://github.com/onthelots/dailylotto) | [AppStore(v1.0.0)](예정) | [Homepage](https://momentous-wallet-0f7.notion.site/1ab1c3f0e0038032a81ec06504765a09?pvs=4) )
+  > 사용자 데이터 & AI를 활용한 맞춤형 로또 추천 서비스 ([README](https://github.com/onthelots/dailylotto) | [AppStore(v1.0.0)](예정) | [Homepage](https://momentous-wallet-0f7.notion.site/1a81c3f0e003806980e5e8bd7732fa83?pvs=74) )
  - Platform : Flutter (iOS, Android)
  - Keyword : Bloc, Clean Architecture, HIVE, LLM(ChatGPT), FCM(+Topic), Functions(+Scheduler)
 
