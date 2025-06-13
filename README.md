@@ -24,9 +24,15 @@
   <br> 
   
   ## Work experience
-  `📞 Omni Story (2023.10 - 2024.09)`
+`📷 파이브닷 (2025.03 - )`
+  - AI 기반 영상 전문가 매칭 플랫폼 <a href="https://apps.apple.com/kr/app/%ED%8C%8C%EC%9D%B4%EB%B8%8C%EB%8B%B7/id6444328529"><img src="https://img.shields.io/badge/App%20Store-0077CC?style=flat&logo=AppStore&logoColor=white"/></a> <a href="https://play.google.com/store/apps/details?id=com.fivesec.fivesecapp&hl=ko"><img src="https://img.shields.io/badge/Google%20Play-1A7F3C?style=flat&logo=Google%20Play&logoColor=white"/></a>
+
+<br>
+
+`📞 Omni Story (2023.10 - 2024.09)`
   - WebRTC 기술을 접목한 [딥테크 SaaS 서비스](https://omnitalk.io/)
-  - 이메일 주소 기반의 [웹/앱 전화서비스 플랫폼](https://www.xphone.com/) 서비스 제공 <a href="https://apps.apple.com/kr/app/xphone-just-email-to-call/id6477368155"><img src="https://img.shields.io/badge/AppStore-000000?style=flat&logo=AppStore&logoColor=white"/></a>
+  - 이메일 주소 기반의 [웹/앱 전화서비스 플랫폼](https://www.xphone.com/) 서비스 제공 <a href="https://apps.apple.com/kr/app/xphone-just-email-to-call/id6477368155"><img src="https://img.shields.io/badge/App%20Store-0077CC?style=flat&logo=AppStore&logoColor=white"/></a> <a href="https://play.google.com/store/apps/details?id=com.emailphone.android&hl=ko"><img src="https://img.shields.io/badge/Google%20Play-1A7F3C?style=flat&logo=Google%20Play&logoColor=white"/></a>
+
  
   <br>
   
