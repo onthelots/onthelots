@@ -17,11 +17,22 @@
     
   `Language & Tools`
   
-  - <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-2396F3?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIKit&logoColor=white"/> <img src="https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-  - <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20Studio-009688?style=flat&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Bloc-3399FF?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Provider-0A6C24?style=flat&logo=flutter&logoColor=white"/>
-  - <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-2396F3?style=flat&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIKit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+
+- <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-009688?style=flat&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bloc-3399FF?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Provider-0A6C24?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Riverpod-6B38FB?style=flat&logo=flutter&logoColor=white"/>
+
+- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+
   
-  <br> 
+<br> 
   
   ## Work experience
 `📷 파이브닷 (2025.03 - )`
@@ -45,29 +56,25 @@
 
   🎈 `데일리 로또`
   > AI를 활용한 맞춤형 행운번호 제공 서비스 ([README](https://github.com/onthelots/dailylotto) | [AppStore(v1.0.2)](https://apps.apple.com/kr/app/%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%A1%9C%EB%98%90/id6742641988) | [Homepage](https://momentous-wallet-0f7.notion.site/1a81c3f0e003806980e5e8bd7732fa83?pvs=74) )
- - Platform : Flutter (iOS, Android)
- - Keyword : Bloc, Clean Architecture, HIVE, LLM(ChatGPT), FCM(+Topic), Functions(+Scheduler), Chart
+- Flutter | Bloc, Clean Architecture, HIVE(DB), LLM, FCM, Firebase Functions
 
  <br>
 
   🔖 `강동청년톡톡 & 관리자용`
   > 청년 대상 주요정책 및 참여 프로그램 전달 플랫폼 ([README](https://github.com/onthelots/gd_youth_talk) | [AppStore(v1.0.2)](https://apps.apple.com/kr/app/%EA%B0%95%EB%8F%99%EC%B2%AD%EB%85%84%ED%86%A1%ED%86%A1/id6739631810) | [Homepage](https://momentous-wallet-0f7.notion.site/1681c3f0e003806c9b50dde42728413a))
- - Platform : Flutter (iOS, Android, Web)
- - Keyword : Bloc, Clean Architecture, Firebase, Hosting, QRScan
+ - Flutter | Bloc, Firebase, QRScan, Web Hosting
    
-  <br>
+ <br>
   
   🍨 `Scoop`
   > 위치 기반으로 하이퍼 로컬 뉴스 플랫폼 ([README](https://github.com/onthelots/Scoop) | [AppStore(v1.0.4)](https://apps.apple.com/kr/app/scoop/id6466811453) | [Homepage](https://www.notion.so/onthelots/32eb5fa184c14426a4f32b654f76ec0e?v=96817719164f49e398abae2bc4c8565c&pvs=4))
- - Platform : iOS 
- - Keyword : Combine, Clean Architecture, MVVM, Fireabse, Map
+ - iOS | Combine, MVVM, Firebase, Map
 
   <br>
 
   💿 `Spotify_Custom`
   > Spotify Web API를 활용한 나만의 음악 재생 앱 ([README](https://github.com/onthelots/Spotify_App))
-  - Platform : iOS 
-  - Keyword : MVC(+MVP), OAuth2.0
+  - iOS | MVC(+MVP), OAuth2.0
 
   <br>
   
