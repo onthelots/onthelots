@@ -36,7 +36,7 @@
 <br> 
   
   ## Work experience
-`📷 파이브닷 (2025.03 - )`
+`📷 파이브닷 (2025.03 - 2025.06 )`
   - AI 기반 영상 전문가 매칭 플랫폼 <a href="https://apps.apple.com/kr/app/%ED%8C%8C%EC%9D%B4%EB%B8%8C%EB%8B%B7/id6444328529"><img src="https://img.shields.io/badge/App%20Store-0077CC?style=flat&logo=AppStore&logoColor=white"/></a> <a href="https://play.google.com/store/apps/details?id=com.fivesec.fivesecapp&hl=ko"><img src="https://img.shields.io/badge/Google%20Play-1A7F3C?style=flat&logo=Google%20Play&logoColor=white"/></a>
 
 <br>
