@@ -1,11 +1,7 @@
   ## About Me.
-  #### 🎨 서비스를 이용하는 사용자의 입장에서 고민하고, 설계하고, 디자인하는 애플리케이션 개발자입니다.  
-  - 크로스 플랫폼 Flutter와 iOS 네이티브 전문성을 바탕으로 애플리케이션을 설계하고 개발합니다.
-  - 이해하고 사용하기 쉬운, 접근성이 용이한 앱을 만드는 것을 최 우선 목표로 삼고 있습니다.
-
-  #### 🏃 개발, 기획, 디자인 등 분야별 기초 지식과 경험을 기반으로 자기 주도적 업무를 이해하고 실천합니다.
-  - 기획부터 디자인, 운영체계 구축 주도하여 총 5개의 서비스를 성공적으로 출시, 운영한 경험이 있습니다.
-  - 함께하는 동료와의 소통과 협업을 최 우선으로 생각합니다.
+  #### 사용자 관점에서 늘 고민하고 설계하고 개발합니다.
+  - 누구나 쉽고 편하게 쓸 수 있는 접근성 좋은 서비스에 집중하고,
+  - Flutter와 네이티브를 자유롭게 넘나들며 애플리케이션을 만듭니다.
   
   <br> 
   
@@ -32,29 +28,17 @@
 - <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 
-  
-<br> 
-  
-  ## Work experience
-`📷 파이브닷 (2025.03 - 2025.06)`
-  - AI 기반 영상 전문가 매칭 플랫폼 <a href="https://apps.apple.com/kr/app/%ED%8C%8C%EC%9D%B4%EB%B8%8C%EB%8B%B7/id6444328529"><img src="https://img.shields.io/badge/App%20Store-0077CC?style=flat&logo=AppStore&logoColor=white"/></a> <a href="https://play.google.com/store/apps/details?id=com.fivesec.fivesecapp&hl=ko"><img src="https://img.shields.io/badge/Google%20Play-1A7F3C?style=flat&logo=Google%20Play&logoColor=white"/></a>
 
 <br>
 
-`📞 Omni Story (2023.10 - 2024.09)`
-  - WebRTC 기술을 접목한 [딥테크 SaaS 서비스](https://omnitalk.io/)
-  - 이메일 주소 기반의 [웹/앱 전화서비스 플랫폼](https://www.xphone.com/) 서비스 제공 <a href="https://apps.apple.com/kr/app/xphone-just-email-to-call/id6477368155"><img src="https://img.shields.io/badge/App%20Store-0077CC?style=flat&logo=AppStore&logoColor=white"/></a> <a href="https://play.google.com/store/apps/details?id=com.emailphone.android&hl=ko"><img src="https://img.shields.io/badge/Google%20Play-1A7F3C?style=flat&logo=Google%20Play&logoColor=white"/></a>
-
- 
-  <br>
-  
-  `🏢 지역활성화센터 (2018.01 – 2022.05)`
-  - 도시재생 및 중장기 지역계획 수립, 주민 컨설팅
-
-  <br>
-
   ## Side Project
 
+🗣️ `BeVERT - Be heard. Be clear. BeVERT`
+  > 실시간 번역 및 AI 문서 요약 서비스 (개발중)
+- Flutter | Bloc, Clean Architecture, Supabase, STT, Gemini, Translation API
+
+ <br>
+ 
  🪴 `티움 - 식물과 함께하는 하루`
   > 범 정부 및 농림축산식품부 공공데이터를 활용한 식물 정보 및 관리 서비스 ([README](https://github.com/onthelots/tium) | [AppStore](https://apps.apple.com/kr/app/%ED%8B%B0%EC%9B%80-%EC%8B%9D%EB%AC%BC%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%ED%95%98%EB%A3%A8/id6747629769) | [Homepage](https://momentous-wallet-0f7.notion.site/21a1c3f0e00380b4b1f9cc830a35b448) )
 - Flutter | Bloc, Clean Architecture, HIVE(DB), Supabase, FCM, Local Notification
@@ -86,11 +70,10 @@
   <br>
   
   ## Education.
-  
-  `💡 멋쟁이 사자차럼(Likelion) 앱 스쿨 1기 (2022.09 – 2023.02)`
-  - Swift / SwiftUI / UIKit / Firebase 등 [iOS 개발 필수기술](https://github.com/onthelots/iOS-Learning/tree/main/SwiftUI-Tutorial) 습득
-  
-  `🏫 단국대학교 도시계획 부동산학과 (2011.03 - 2018.02)`
+
+  `📚 The Complete Flutter Development Bootcamp (2024)`
+  `💡 Likelion App(iOS) School 1기 (2022-2023)`  
+  `🏫 단국대학교 도시계획 부동산학과 (2011-2018)`
   
   <br>
   
