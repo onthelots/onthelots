@@ -70,10 +70,14 @@
   <br>
   
   ## Education.
+  > 2024
+  - The Complete Flutter Development Bootcamp
+ 
+  > 2022~2023
+  - Likelion App(iOS) School 1기
 
-  `📚 The Complete Flutter Development Bootcamp (2024)`
-  `💡 Likelion App(iOS) School 1기 (2022-2023)`  
-  `🏫 단국대학교 도시계획 부동산학과 (2011-2018)`
+  > 2011~2018
+  - Bachelor of Real Estate Studies, Dankook Univ.
   
   <br>
   
