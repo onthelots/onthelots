@@ -26,7 +26,8 @@
 ## Side Project
 
 🗣️ `BeVERT - Be heard. Be clear. BeVERT`
-##### 실시간 번역 및 AI 문서 요약 서비스 (개발중)
+##### 말하는 순간 자동 기록, AI가 정리·공유하는 스마트 노트
+[![README](https://img.shields.io/badge/README-000000?style=rounded&logo=github&logoColor=white)](https://github.com/onthelots/bevert)
 
 <br>
  
